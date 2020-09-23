@@ -1,5 +1,16 @@
 # @keystonejs/adapter-knex
 
+## 11.0.7
+
+### Patch Changes
+
+- [`8c54a34be`](https://github.com/keystonejs/keystone/commit/8c54a34bec0f5f945447a2475f5500415eb154df) [#3740](https://github.com/keystonejs/keystone/pull/3740) Thanks [@timleslie](https://github.com/timleslie)! - Cleaned up internal logic, no functional changes.
+
+* [`3e2ca3a2f`](https://github.com/keystonejs/keystone/commit/3e2ca3a2ffa00cb5aababee572902a78e657ec58) [#3652](https://github.com/keystonejs/keystone/pull/3652) Thanks [@Noviny](https://github.com/Noviny)! - Fixed issue #3341, allowing fieldnames to include `_`, so that field names with an underscore in them can be filtered on.
+
+* Updated dependencies [[`df0687184`](https://github.com/keystonejs/keystone/commit/df068718456d23819a7cae491870be4560b2010d), [`cc56990f2`](https://github.com/keystonejs/keystone/commit/cc56990f2e9a4ecf0c112362e8d472b9286f76bc)]:
+  - @keystonejs/keystone@17.0.0
+
 ## 11.0.6
 
 ### Patch Changes
