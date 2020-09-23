@@ -1,0 +1,8 @@
+{
+  "packageRules": [
+    {
+      "packagePatterns": ["gatsby", "remark"],
+      "enabled": false
+    }
+  ]
+}
